@@ -1,0 +1,1 @@
+The images are supposed to be stored in the 'Images' folder and as such the program will look only in the folder. The full path of the image does not need to be provided only the name if it is in the correct folder.
