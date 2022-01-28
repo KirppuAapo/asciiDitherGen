@@ -32,7 +32,6 @@ def dither(image, amountOfColors):
 
     newImage = Image.new('L', (x, y))
     newImage.putdata(pixelList)
-    newImage.show()
     return newImage
 
 def resizeImage(image :Image, charAmount :int):
